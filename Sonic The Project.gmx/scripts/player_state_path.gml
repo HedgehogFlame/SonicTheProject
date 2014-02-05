@@ -1,0 +1,3 @@
+// player_state_path()
+
+// nothing here! to see what happens, check the end of path event...
